@@ -14,7 +14,7 @@ fastmcp==2.13.0.2
 markdown-it-py==3.0.0
 pymongo==4.15.3
 python-dotenv==1.2.1
-unstructured==0.18.15
+unstructured==0.24.1
 numpy==2.2.6
 Quart==0.20.0
 quart-cors==0.8.0
